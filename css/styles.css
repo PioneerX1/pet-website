@@ -1,0 +1,14 @@
+.unique {
+  color: skyblue;
+  background-color: teal;
+}
+
+.scary {
+  color: red;
+  font-weight: bold;
+}
+
+.catpic {
+  width: 200px;
+  height: 200px;
+}
