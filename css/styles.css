@@ -12,3 +12,13 @@
   width: 200px;
   height: 200px;
 }
+
+.lightsOn {
+  background-color: white;
+  color: black;
+}
+
+.lightsOff {
+  background-color: black;
+  color: white;
+}
